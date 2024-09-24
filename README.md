@@ -42,8 +42,8 @@ All bacteria images are available from the DIBaS database: http://misztal.edu.pl
 
 We trained and evaluated the following models:
 
-* **VGG-16 **
-* **MobileNet-V2 ** 
+* **VGG-16**
+* **MobileNet-V2** 
 
 
 ## Instructions to Run
